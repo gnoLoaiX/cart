@@ -16,10 +16,12 @@ FullPage插件
   - 参考文档：http://www.dowebok.com/demo/2014/77/
   - 原理：window.onmousewheel = function(){ console.log('ok') };
 - 使用步骤
-  - 引用文件
-          <link rel="stylesheet" href="css/jquery.fullPage.css">
+  + 引用文件
+      ~~~html
+          <link rel="stylesheet" href="css/jquery.fullPage.css"> 
           <script src="js/jquery.min.js"></script>
           <script src="js/jquery.fullPage.js"></script>
+      ~~~
   - html结构
       <div id="fullpage">
           <div class="section">第一屏</div>
