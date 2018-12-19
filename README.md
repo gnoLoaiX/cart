@@ -1,2 +1,2 @@
 # cart
-购物车宣传 FullPages插件
+购物车宣传 FullPage插件
