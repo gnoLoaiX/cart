@@ -1,7 +1,7 @@
 # H5C3
 </br>
 效果展示：  
-![image](https://github.com/gnoLoaiX/cart/blob/master/images/demo.gif)
+<img width="1080" height="600" src="https://github.com/gnoLoaiX/cart/blob/master/images/demo.gif"/>
 
 
 ### 《购物车宣传》案例
